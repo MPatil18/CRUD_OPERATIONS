@@ -16,7 +16,7 @@ import javax.servlet.http.HttpServletResponse;
 @WebServlet("/update")
 public class update extends HttpServlet {
 		protected void doPost(HttpServletRequest req, HttpServletResponse res) throws ServletException, IOException {
-			System.out.println("hiiii harshal123");
+			System.out.println("hiiii Mandar");
 			
 			
 			String email=req.getParameter("em");
