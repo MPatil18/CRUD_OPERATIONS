@@ -1,3 +1,15 @@
+# CRUD Operations
+
+## Overview :
+The project is a web-based application designed to manage users. It provides the following functionalities.
+
+User Registration: New users can create an account.
+
+User Login: Existing users can log in securely.
+
+CRUD Operations: Authenticated users can perform operations on stored data.
+
+
 ## Registration Page
 
 ![Screenshot 2024-07-04 173537](https://github.com/user-attachments/assets/2afe5c9a-a33e-46e2-95fc-318beb07c082)
